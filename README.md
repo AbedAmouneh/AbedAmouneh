@@ -35,6 +35,8 @@
   "edge": "A builder with a PM brain",
   "education": "BSc Computer Science — Rafik Hariri University",
   "philosophy": "Stay Hungry. Stay Foolish.",
+  "debugging_style": "console.log('here'), console.log('here2'), console.log('WHY')",
+  "css_philosophy": "tailwind or therapy",
   "open_to": ["Frontend roles", "Product / PM roles", "Build contracts"]
 }
 ```
@@ -48,6 +50,10 @@
 - 🗳️ Shipped a full **election management system** for real civic infrastructure
 - 🎓 CS grad, **Rafik Hariri University** (2021–2024) • ex-intern at **OGERO** (Lebanon's national telecom)
 - 📬 Reach me → **amounehabed@gmail.com**
+
+<br/>
+
+> ⚡ Built a game engine "just to see if I could" &nbsp;•&nbsp; Commit messages that tell a better story than my diary &nbsp;•&nbsp; 30+ shipped projects. Still Google flexbox centering.
 
 <br clear="right"/>
 
@@ -143,6 +149,33 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="260" alt="my code in production"/>
+
+<sub><i>my code in production</i></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤖 Vibe Stack
+
+*Yes, I use AI. No, it doesn't write everything.*
+
+*(It writes some things.)*
+
+| Tool | What I actually use it for |
+|------|---------------------------|
+| [Claude](https://claude.ai) | Pair programmer. Never judges my 2am "why is this undefined" spirals |
+| [Cursor](https://cursor.sh) | Where the actual magic happens. My fingers barely touch the keyboard |
 
 </div>
 
