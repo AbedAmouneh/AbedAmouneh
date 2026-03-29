@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abed%20El-Fattah&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=A%20builder%20with%20a%20PM%20brain%20%E2%80%94%20Frontend%20Engineer%20%40%20York%20Press%20%7C%20Co-founder%20%40%20Voxire&descAlignY=56&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=%3E%20ABED%20EL-FATTAH&fontSize=30&fontColor=00FF88&animation=fadeIn&fontAlignY=42&desc=FRONTEND%20ENG%20%40%20YORK%20PRESS%20%7C%20CO-FOUNDER%20%40%20VOXIRE%20%7C%20A%20BUILDER%20WITH%20A%20PM%20BRAIN&descSize=10&descAlignY=65&descAlign=50&descColor=00FFFF&fontFamily=Press+Start+2P" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Stay+Hungry.+Stay+Foolish.+%E2%80%94+Steve+Jobs;A+builder+with+a+PM+brain+%F0%9F%A7%A0;Frontend+Engineer+%40+York+Press+%7C+React+%E2%80%A2+TypeScript+%E2%80%A2+Next.js;Co-founder+%40+Voxire+%E2%80%94+30%2B+client+projects+shipped;Built+a+React+game+engine+%F0%9F%95%B9%EF%B8%8F+%E2%80%94+cubeforge.dev;Built+Nasna+%F0%9F%A4%9D+%E2%80%94+aid+platform+for+displaced+Lebanon;Open+to+Frontend%2C+Product+%26+PM+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=1400&color=00FF88&background=000000&center=true&vCenter=true&random=false&width=800&height=50&lines=STAY+HUNGRY.+STAY+FOOLISH.;A+BUILDER+WITH+A+PM+BRAIN;FRONTEND+ENG+%40+YORK+PRESS;CO-FOUNDER+%40+VOXIRE+%7C+30%2B+PROJECTS;BUILT+CUBEFORGE.DEV+%3A+REACT+GAME+ENGINE;BUILT+NASNA+%3A+AID+PLATFORM+FOR+LEBANON;OPEN+TO+FRONTEND+%2B+PM+ROLES" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbedAmouneh&label=Profile+Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AbedAmouneh&label=Profile+Views&color=00FF88&style=flat)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/AbedAmouneh?label=Followers&style=social)](https://github.com/AbedAmouneh)
 
@@ -244,4 +244,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
