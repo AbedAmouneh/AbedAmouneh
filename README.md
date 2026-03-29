@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=%3E%20ABED%20EL-FATTAH&fontSize=30&fontColor=00FF88&animation=fadeIn&fontAlignY=42&desc=FRONTEND%20ENG%20%40%20YORK%20PRESS%20%7C%20CO-FOUNDER%20%40%20VOXIRE%20%7C%20A%20BUILDER%20WITH%20A%20PM%20BRAIN&descSize=10&descAlignY=65&descAlign=50&descColor=00FFFF&fontFamily=Press+Start+2P" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=1400&color=00FF88&background=000000&center=true&vCenter=true&random=false&width=800&height=50&lines=STAY+HUNGRY.+STAY+FOOLISH.;A+BUILDER+WITH+A+PM+BRAIN;FRONTEND+ENG+%40+YORK+PRESS;CO-FOUNDER+%40+VOXIRE+%7C+30%2B+PROJECTS;BUILT+CUBEFORGE.DEV+%3A+REACT+GAME+ENGINE;BUILT+NASNA+%3A+AID+PLATFORM+FOR+LEBANON;OPEN+TO+FRONTEND+%2B+PM+ROLES" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/AbedAmouneh/AbedAmouneh/main/header.svg" width="100%"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbedAmouneh&label=Profile+Views&color=00FF88&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=AbedAmouneh&label=Profile+Views&color=0e75b6&style=flat)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/AbedAmouneh?label=Followers&style=social)](https://github.com/AbedAmouneh)
 
