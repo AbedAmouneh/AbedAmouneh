@@ -181,8 +181,8 @@
 
 ## 📊 GitHub Stats
 
-<img height="175em" src="https://github-readme-stats-eight-pi.vercel.app/api?username=AbedAmouneh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats-eight-pi.vercel.app/api/top-langs/?username=AbedAmouneh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=AbedAmouneh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=AbedAmouneh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 <img src="https://streak-stats.demolab.com/?user=AbedAmouneh&theme=tokyonight&hide_border=true" alt="streak stats"/>
 
