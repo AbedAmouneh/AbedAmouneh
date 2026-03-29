@@ -32,8 +32,7 @@
   "education": "BSc Computer Science — Rafik Hariri University",
   "philosophy": "Stay Hungry. Stay Foolish.",
   "debugging_style": "console.log('here'), console.log('here2'), console.log('WHY')",
-  "css_philosophy": "tailwind or therapy",
-  "open_to": ["Frontend roles", "Product / PM roles", "Build contracts"]
+  "css_philosophy": "tailwind or therapy"
 }
 ```
 
@@ -61,11 +60,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🕹️ CubeForge</h3>
-      <p>A React-first 2D game engine for the browser. Write real TypeScript, build real games — if you can build a React app, you can build a game. Under 60 KB gzipped.</p>
+      <p>A React-first 2D/3D game engine for the browser. Write real TypeScript, build real games — if you can build a React app, you can build a game. Under 60 KB gzipped.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Canvas2D-E34F26?style=flat-square"/>
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
       </p>
       <a href="https://cubeforge.dev">🌐 cubeforge.dev</a>
     </td>
@@ -89,7 +88,6 @@
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
       </p>
       <a href="https://github.com/voxire">🔒 Under @voxire</a>
     </td>
@@ -98,8 +96,9 @@
       <p>Full-stack civic tech platform for real election infrastructure. React frontend, Go backend, Terraform-managed infra, TypeScript contracts — the full stack.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
       </p>
       <a href="https://github.com/voxire">🔒 Under @voxire</a>
     </td>
@@ -126,7 +125,6 @@
 **Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -141,10 +139,10 @@
 
 **Tools & Infra**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
