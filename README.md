@@ -7,6 +7,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AbedAmouneh&label=Profile+Views&color=0e75b6&style=flat)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/AbedAmouneh?label=Followers&style=social)](https://github.com/AbedAmouneh)
+&nbsp;
+[![committers.top badge](https://user-badge.committers.top/lebanon/AbedAmouneh.svg)](https://user-badge.committers.top/lebanon/AbedAmouneh)
 
 </div>
 
