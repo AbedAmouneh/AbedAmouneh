@@ -1,0 +1,20 @@
+# Voxire
+
+> Voxire is a digital solutions agency based in Lebanon helping businesses dominate their industries through web development, UI/UX design, digital marketing, and SaaS products.
+
+## Key pages
+- [Home](https://voxire.com/): Who we are, what we do, hero CTA
+- [Services](https://voxire.com/services/): Full list of technology and marketing services
+- [About](https://voxire.com/about/): Company story, founders, values
+- [Projects](https://voxire.com/projects/): Portfolio of completed work
+- [RTYLR](https://voxire.com/rtylr/): Our commerce operating system SaaS product
+- [Careers](https://voxire.com/careers/): Open positions at Voxire
+- [Blog](https://voxire.com/blog/): Digital marketing and web development insights
+- [FAQs](https://voxire.com/faqs/): Frequently asked questions about our services
+- [Contact](https://voxire.com/contact/): Get in touch with the Voxire team
+
+## Contact
+- Email: info@voxire.com
+- WhatsApp: +961 3 940 708
+- Instagram: https://www.instagram.com/voxire.solutions/
+- LinkedIn: https://www.linkedin.com/company/voxire
